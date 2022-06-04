@@ -20,13 +20,13 @@ public class Web {
 
         //Recorremos todos los elementos
         for (Element headline : newsHeadlines1) {
-            System.out.println(headline.html());
+            System.out.println("Localización: " + headline.html());
         }
         for (Element headline : newsHeadlines2) {
-            System.out.println(headline.html());
+            System.out.println("Temperatura: " +headline.html());
         }
         for (Element headline : newsHeadlines3) {
-            System.out.println(headline.html());
+            System.out.println("Tiempo: "+headline.html());
         }
 
 
