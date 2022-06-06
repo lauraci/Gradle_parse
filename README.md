@@ -2,7 +2,7 @@
 ***Parseo de una página web para obtener datos concretos.***
 
 ### Pasos a seguir
-- Descargamos la librería JSOUP.
+- Descargamos la librería JSOUP. https://jsoup.org/
 - Seguimos los pasos que nos indica en la página. Estes están indicados en el código del programa.
 
 
